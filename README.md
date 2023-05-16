@@ -4,6 +4,8 @@
 
 # 🪐 🎅 Jupyter Themes
 
+A colletion of `themes` for JupyterLab and JupyterHub.
+
 ## Christmas Theme for JupyterLab
 
 WIP [Update to JupyterLab 4.0.](https://github.com/datalayer/jupyter-themes/issues/1)
