@@ -4,7 +4,7 @@
 
 # 🪐 🎅 Jupyter Themes
 
-A colletion of `themes` for JupyterLab and JupyterHub.
+A collection of `themes` for JupyterLab and JupyterHub.
 
 ## Christmas Theme for JupyterLab
 
