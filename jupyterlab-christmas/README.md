@@ -25,7 +25,7 @@ yarn jupyterlab
 ```bash
 conda create -y -n datalayer python=3.11 && \
   conda activate datalayer && \
-  pip install jupyterlab==4.0.0b1 jupyter_theme_christmas
+  pip install jupyterlab==4.0.0 jupyter_theme_christmas
 
 # How to launch jupyter lab with a defined theme?
 mkdir -p ~/.jupyter/lab/user-settings/\@jupyterlab/apputils-extension && \
