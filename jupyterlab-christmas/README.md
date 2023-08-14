@@ -68,7 +68,7 @@ mkdir ~/notebooks && \
     --dev-mode \
     --watch \
     --notebook-dir=~/notebooks \
-    --ServerApp.token= \
+    --IdentityProvider.token= \
     --extensions-in-dev-mode
 ```
 
