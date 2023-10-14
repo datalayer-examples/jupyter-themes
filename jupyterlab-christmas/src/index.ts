@@ -9,7 +9,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
   requires: [IThemeManager],
   autoStart: true,
   activate: (app: JupyterFrontEnd, manager: IThemeManager) => {
-    console.log('JupyterLab plugin @datalayer/jupyter-theme-christmas is activated!');
+    console.log('JupyterLab plugin @datalayer/jupyter-theme-christmas:plugin is activated.');
     const style = '@datalayer/jupyter-theme-christmas/index.css';
     manager.register({
       name: 'JupyterLab Christmas',
