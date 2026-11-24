@@ -1,4 +1,4 @@
-[![Datalayer](https://assets.datalayer.tech/datalayer-25.svg)](https://datalayer.io)
+[![Datalayer](https://images.datalayer.io/legacy/datalayer-25.svg)](https://datalayer.ai)
 
 [![Become a Sponsor](https://img.shields.io/static/v1?label=Become%20a%20Sponsor&message=%E2%9D%A4&logo=GitHub&style=flat&color=1ABC9C)](https://github.com/sponsors/datalayer)
 
@@ -17,7 +17,7 @@ pip install -e .[test]
 jupyter labextension develop . --overwrite
 jupyter labextension list
 jupyter server extension list
-yarn jupyterlab
+npm jupyterlab
 ```
 
 ## Use
@@ -25,7 +25,7 @@ yarn jupyterlab
 ```bash
 conda create -y -n datalayer python=3.11 && \
   conda activate datalayer && \
-  pip install jupyterlab==4.1.0b0 jupyter_theme_christmas
+  pip install jupyterlab==4.1.0 jupyter_theme_christmas
 
 # How to launch jupyter lab with a defined theme?
 mkdir -p ~/.jupyter/lab/user-settings/\@jupyterlab/apputils-extension && \
